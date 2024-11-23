@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @A0V-25. 
-- ⚡ I’m currently building an API.
-- 📫 How to reach me: Not Available for hire.
-- Look at the sky, as at one point in time it was the brightest clue during the night.
+- 👋 Hi
